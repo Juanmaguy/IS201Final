@@ -1,0 +1,99 @@
+.common{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: #85784a;
+}
+ul{
+    font-size: 20px;
+}
+
+body{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+
+.header{
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    color: azure;
+    background-color:#85784a;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+iframe{
+    width:100%;
+}
+
+.footer{
+    background-color: #85784a;
+    color: black;
+    line-height: 25px;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+    width: 100%;
+}
+.footer a{
+    color: whitesmoke;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav{
+    background-color: lightgray;
+    padding: 10px;
+    overflow: hidden
+
+}
+nav a{
+    float:inline-start;
+    color: #191919;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: #85784a
+}
+
+.square {
+    list-style-type: square;
+    margin-left: 1em;
+    font-size:15px;
+   }
+
+.mainbody{
+    color: #bdb186;
+    background-color: #191919;
+    text-align: left;
+}
+.unli {
+    font-size: 15px;
+}
+h3{
+    color: #85784a;
+}
+.midhead{
+    text-align: center;
+}
+
+.homepage{
+    text-align:left
+}
+
+.gototop{
+    text-align: center;
+}
+
