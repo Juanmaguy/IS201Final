@@ -66,11 +66,10 @@ nav a:hover{
     color: #85784a
 }
 
-.square {
-    list-style-type: square;
+ul li ul li{
     margin-left: 1em;
-    font-size:15px;
-   }
+    font-size:10px;  
+}
 
 .mainbody{
     color: #bdb186;
